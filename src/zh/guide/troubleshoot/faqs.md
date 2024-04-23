@@ -84,3 +84,5 @@ A：openGemini写性能与并发数、batchsize、机器规格、磁盘性能等
 ### **Q16：有一些语法在ts-cli上执行失败怎么办？**
 
 A：由于ts-cli没能及时支持openGemini新增的一部分语法和功能，这时可以使用Influx客户端，比如tag array功能等。
+
+### **Q17：支持group by time(按月)分组查么？**
